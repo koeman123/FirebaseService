@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseService</string>
+    <string name="title">WELCOME TO SYSTEM</string>
+    <string name="title2">RESGISTER.</string>
+    <string name="email">Enter E-Mail Pls. </string>
+    <string name="pass">Enter PASSWORD Pls. </string>
+    <string name="login">LOGIN</string>
+    <string name="name">Enter NAME</string>
+    <string name="tel">Enter TEL.</string>
+    <string name="regis">Enter REGISTER</string>
+    <string name="click">Go To Regiater</string>
+</resources>
